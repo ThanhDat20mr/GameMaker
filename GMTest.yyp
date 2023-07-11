@@ -19,6 +19,7 @@
     {"id":{"name":"spr_ninjawhite_walk","path":"sprites/spr_ninjawhite_walk/spr_ninjawhite_walk.yy",},"order":6,},
     {"id":{"name":"spr_robotblue_jumpD","path":"sprites/spr_robotblue_jumpD/spr_robotblue_jumpD.yy",},"order":4,},
     {"id":{"name":"spr_robotred_damage","path":"sprites/spr_robotred_damage/spr_robotred_damage.yy",},"order":0,},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},"order":3,},
     {"id":{"name":"spr_robotblue_idle","path":"sprites/spr_robotblue_idle/spr_robotblue_idle.yy",},"order":2,},
     {"id":{"name":"Sprite44","path":"sprites/Sprite44/Sprite44.yy",},"order":16,},
     {"id":{"name":"spr_robotgray_idle","path":"sprites/spr_robotgray_idle/spr_robotgray_idle.yy",},"order":2,},

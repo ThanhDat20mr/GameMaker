@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "Sprite44",
-    "path": "sprites/Sprite44/Sprite44.yy",
+    "name": "spr_ninjared_run",
+    "path": "sprites/spr_ninjared_run/spr_ninjared_run.yy",
   },
   "solid": true,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -21,8 +21,9 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object1","path":"objects/Object1/Object1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"Object4","path":"objects/Object4/Object4.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":53,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_limitWall",
+  "name": "Object4",
   "tags": [],
   "resourceType": "GMObject",
 }
