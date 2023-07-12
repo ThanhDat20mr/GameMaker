@@ -1,0 +1,1 @@
+draw_text(0, 0, string("Coin: ") + string(global.coin));
